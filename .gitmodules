@@ -1,0 +1,9 @@
+[submodule "DID-solidity"]
+	path = DID-solidity
+	url = git@github.com:dist-bit/DID-solidity.git
+[submodule "fingerprint_client"]
+	path = fingerprint_client
+	url = git@github.com:dist-bit/fingerprint_client.git
+[submodule "USDID_APP"]
+	path = USDID_APP
+	url = git@github.com:dist-bit/USDID_APP.git
