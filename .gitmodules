@@ -7,3 +7,6 @@
 [submodule "USDID_APP"]
 	path = USDID_APP
 	url = git@github.com:dist-bit/USDID_APP.git
+[submodule "ethglobal-api"]
+	path = ethglobal-api
+	url = git@github.com:ulises214/ethglobal-api.git
